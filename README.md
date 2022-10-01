@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/-Javascript-black?style=plastic&logo=javascript)
 ![C](https://img.shields.io/badge/-C-black?style=plastic&logo=c)
 ![Shell](https://img.shields.io/badge/-Shell-black?style=plastic&logo=shell)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📳 Contact Me
 1. ![WhatsApp](https://img.shields.io/badge/-WhatsApp-lightgrey?style=social&logo=whatsapp) 
