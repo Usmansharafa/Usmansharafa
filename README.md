@@ -49,4 +49,4 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Usmansharafa&theme=dark)](https://git.io/streak-stats)
 
 ## ☀️ Recent Activities
-[![My Activity Graph](https://activity-graph.herokuapp.com/graph?username=Usmansharafa&theme=github)](https://github.com/LOVE-DOCTOR/github-readme-activity-graph)
+[![My Activity Graph](https://activity-graph.herokuapp.com/graph?username=Usmansharafa&theme=github)](https://github.com/Usmansharafa/github-readme-activity-graph)
