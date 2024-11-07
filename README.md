@@ -31,11 +31,9 @@ Here are some ideas to get you started:
 ![Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📳 Contact Me
-1. ![WhatsApp](https://img.shields.io/badge/-WhatsApp-lightgrey?style=social&logo=whatsapp) 
-   > [**Send a Message**](https://wa.me/2348093552688)
-2. ![Gmail](https://img.shields.io/badge/-Gmail-white?style=social&logo=gmail)
+1. ![Gmail](https://img.shields.io/badge/-Gmail-white?style=social&logo=gmail)
    > <a href="mailto:usmansharafa04@gmail.com">**Send an Email**</a>
-3. ![Twitter](https://img.shields.io/badge/-Twitter-white?style=social&logo=twitter)
+2. ![Twitter](https://img.shields.io/badge/-Twitter-white?style=social&logo=twitter)
    > [**Send a DM**](https://twitter.com/Ackermannn04)
      
 
